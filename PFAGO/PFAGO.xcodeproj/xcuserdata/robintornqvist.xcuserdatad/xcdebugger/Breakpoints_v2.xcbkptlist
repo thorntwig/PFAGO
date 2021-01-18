@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "316359FE-4D7E-4793-B896-19A0E8AEF273"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "94F26EEA-F1CD-47C6-92E0-8F3E2CBE233A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PFAGO/ControllCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "ControllCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "94F26EEA-F1CD-47C6-92E0-8F3E2CBE233A - ef225bafa90bf118"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PFAGO.ControllCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PFAGO.ControllCell&gt;"
+                  moduleName = "PFAGO"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robintornqvist/Dev/Projekt/PFAGO-iOS/PFAGO/PFAGO/ControllCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "94F26EEA-F1CD-47C6-92E0-8F3E2CBE233A - df2c2524609d0e60"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PFAGO.ControllCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;PFAGO.ControllCell&gt;"
+                  moduleName = "PFAGO"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/robintornqvist/Dev/Projekt/PFAGO-iOS/PFAGO/PFAGO/ControllCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "113">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3125F40-02E5-4396-8A5F-B4D6388BDAF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PFAGO/ControllCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "init(style:reuseIdentifier:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70E6DBCB-E723-4A79-9869-E2DAF335095F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PFAGO/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "136"
+            endingLineNumber = "136"
+            landmarkName = "collectionView(_:layout:sizeForItemAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,6 @@
+module Pods_PFAGO {
+  umbrella header "Pods-PFAGO-umbrella.h"
+
+  export *
+  module * { export * }
+}
